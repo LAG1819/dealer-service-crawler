@@ -1,0 +1,88 @@
+.content {
+	margin-left: 300px;
+}
+
+.sidebar {
+	width: 300px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    z-index: 999;
+    background: #212529;
+    color: white;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.footer {
+	width: 300px;
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+.topBar {
+	min-height: 10vh;
+	border-right: 1px solid lightgray;
+	border-bottom: 1px solid lightgray;
+
+}
+
+.mainContent {
+	padding-top: 20px;
+}
+
+.topBarLast {
+	border-right: none;
+}
+
+.topBar_headline {
+	padding-top: 20px;
+	font-weight: 600;
+}
+
+#cb-cookie-banner { 
+	position: fixed; 
+	bottom: 0; 
+	left: 0; 
+	width: 100%; 
+	z-index: 999; 
+	border-radius: 0; 
+	display: none; 
+}
+
+.huge_number {
+	font-size: calc(800% + 1vw + 1vh);
+	text-align: center;
+}
+
+.centered_img {
+	text-align: center;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+
+#pie{
+	height: 200px;
+	margin: 0 auto;
+	position: relative;
+	display: block;
+	width: 200px;
+}
+
+/* tooltip */
+.tooltip {
+	background: #eee;
+	box-shadow: 0 0 5px #999999;
+	color: #333;
+	display: none;
+	font-size: 18px;
+	left: 130px;
+	padding: 10px;
+	position: absolute;
+	text-align: center;
+	top: 95px;
+	width: 80px;
+	z-index: 10;
+}
