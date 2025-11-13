@@ -1,0 +1,23 @@
+1656488646674	geckodriver	INFO	Listening on 127.0.0.1:52657
+1656488672737	geckodriver	INFO	Listening on 127.0.0.1:52662
+1656488675824	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-gpu" "--headless" "-no-remote" "-profile" "C:\\Users\\Luisa\\AppData\\Local\\Temp\\rust_mozprofileU4dCQx"
+*** You are running in headless mode.
+1656488676286	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Luisa\\AppData\\Local\\Temp\\rust_mozprofileU4dCQx\\search.json.mozlz4", (void 0)))
+1656488677551	Marionette	INFO	Listening on port 52688
+Read port: 52688
+1656488677670	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1656501762901	geckodriver	INFO	Listening on 127.0.0.1:62015
+1656501765994	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-gpu" "--headless" "-no-remote" "-profile" "C:\\Users\\Luisa\\AppData\\Local\\Temp\\rust_mozprofile3H4ORh"
+*** You are running in headless mode.
+1656501766480	Marionette	INFO	Marionette enabled
+1656501766486	Marionette	INFO	Listening on port 62027
+Read port: 62027
+1656501766893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Luisa\\AppData\\Local\\Temp\\rust_mozprofile3H4ORh\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Exiting due to channel error.

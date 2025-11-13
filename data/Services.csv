@@ -1,0 +1,197 @@
+Category,Group,Service
+Abgasanlage,Katalysator,Katalysator
+Abgasanlage,Partikelfilter,Rußpartikelfilter
+Abgasanlage,Schalldämpfer,Auspuff
+Abgasanlage,Sensoren,ARG
+Abgasanlage,Sonden,Lambdasone
+Antriebsstrang,Achsenmanschette,Achsenmanschette
+Antriebsstrang,Antriebswelle,Antriebswelle
+Antriebsstrang,Getriebe,Getriebe
+Antriebsstrang,Getriebe,Automatikgetriebe
+Antriebsstrang,Kardanwelle,Kardanwelle
+Antriebsstrang,Kupplung,Ausrücklager
+Antriebsstrang,Kupplung,Kupllung
+Beleuchtung,Checks,Lichtcheck
+Beleuchtung,Heckleuchte,Heckleuchte
+Beleuchtung,Nebelscheinwerfer,Nebelscheinwerfer
+Beleuchtung,Scheinwerfer,Scheinwerfer
+Bremsanlage,Abdeckung,Abdeckblech
+Bremsanlage,Abdeckung,Bremscheibe
+Bremsanlage,ABS,Steuergerät
+Bremsanlage,ABS,Drehzahlsensor
+Bremsanlage,ABS,ABS Sensor
+Bremsanlage,Betriebsstoffe,Bremsflüssigkeit
+Bremsanlage,Bremsen,Hauptbremszylinder
+Bremsanlage,Bremskraftverstärker,Bremskraftverstärker
+Bremsanlage,Bremsschlauch,Bremsschlauch
+Bremsanlage,Radbremszylinder,Radbremszylinder
+Bremsanlage,"Trommeln, Scheiben, Beläge",Bremsbacken
+Bremsanlage,"Trommeln, Scheiben, Beläge",Bremstrommeln
+Bremsanlage,"Trommeln, Scheiben, Beläge",Bremsbeläge
+Bremsanlage,"Trommeln, Scheiben, Beläge",Bremsenservice
+"Diagnose, Checks",Check,Wintercheck
+"Diagnose, Checks",Check,Bremsen Check
+"Diagnose, Checks",Check,Fahrwerkscheck
+"Diagnose, Checks",Check,Flüssigkeitscheck
+"Diagnose, Checks",Check,Frühjarhscheck
+"Diagnose, Checks",Check,Herbstcheck
+"Diagnose, Checks",Check,Klimaanlagencheck
+"Diagnose, Checks",Check,Motorcheck
+"Diagnose, Checks",Check,Opel Profi Check
+"Diagnose, Checks",Check,Sicherheitscheck
+"Diagnose, Checks",Check,Sommercheck
+"Diagnose, Checks",Check,Urlaubscheck
+"Diagnose, Checks",Check,Vorabcheck
+"Diagnose, Checks",Check,Wintercheck
+"Diagnose, Checks",Diagnose,Fehlerspeicher 
+"Diagnose, Checks",HU/AU,Hauptuntersuchung
+"Diagnose, Checks",HU/AU,HU
+"Diagnose, Checks",HU/AU,AU
+Elektrik,Anlasser,Anlasser
+Elektrik,Anlasser,Starter
+Elektrik,Batterie,Autobatterie
+Elektrik,Einspritzung,Einspritzpumpe
+Elektrik,Lichtmaschine,Hochdruckpumpe
+Elektrik,Lichtmaschine,Lichtmaschine
+Fahrwerk,"Diagnose, Vermessung",Fahrwerksvermessung
+Fahrwerk,Domlager,Federbein
+Fahrwerk,Domlager,Domlager
+Fahrwerk,Federn,Schraubenfeder
+Fahrwerk,Federn,Koppelstange
+Fahrwerk,Koppelstange,Koppelstange
+Fahrwerk,Querlenker,Querlenker
+Fahrwerk,Radlager,Radlager
+Fahrwerk,Radnabe,Radnabe
+Fahrwerk,Spurstange,Spurstangenkopf
+Fahrwerk,Spurstange,Lenkung
+Fahrwerk,Spurstange,Spurstange
+Fahrwerk,Spurstange,Spurstangengelenk
+Fahrwerk,Steuerung,Lenkgetriebe
+Fahrwerk,Steuerung,Servopumpe
+Fahrwerk,Stoßdämpfer,Stoßdämpfer
+Glas,Scheiben,Fensterheber
+Glas,Scheiben,Heckscheibe
+Glas,Scheiben,Hecktürscheibe
+Glas,Scheiben,Scheibenwischerblatt
+Glas,Scheiben,Seitenscheiben
+Glas,Scheiben,Windschutzscheibe
+Glas,Scheiben,Frontscheibe
+Glas,Tuning,Scheiben tönen
+Glas,Wischerblätter,Scheibenwischer
+Glas,Wischerblätter,Scheibenwischerblätter
+Glas,Wischerblätter,Wischerarm
+Glas,Wischerblätter,Wischermotor
+Inspektion,Inspektion,Inspektion
+"Karosserie, Lack",Außenspiegel,Außenspiegel
+"Karosserie, Lack",Außenspiegel,Glas Außenspiegel
+"Karosserie, Lack",Dach,Dach
+"Karosserie, Lack",Karosserie,Karosserie
+"Karosserie, Lack",Kotflügel,Kotflügel
+"Karosserie, Lack",Motorhaube,Motorhaube
+"Karosserie, Lack",Schlösser,Schließzylinder
+"Karosserie, Lack",Schlösser,Heckklappe
+"Karosserie, Lack",Schlösser,Zündschloss
+"Karosserie, Lack",Schlösser,Lenkrad
+"Karosserie, Lack",Schweller,Schweller
+"Karosserie, Lack",Stoßfänger,Stoßfänger
+"Karosserie, Lack",Stoßfänger,Frontschürze
+"Karosserie, Lack",Türen,Heckklappe
+"Karosserie, Lack",Türen,Kofferaumdeckel
+"Karosserie, Lack",Türen,Hecktür
+"Karosserie, Lack",Türen,Tür
+"Karosserie, Lack",Türen,Türschloss
+"Klimaanlage, Heizung",Filter,Filtertrockner
+"Klimaanlage, Heizung",Filter,Klimaanlage
+"Klimaanlage, Heizung",Filter,Innenraumfilter
+"Klimaanlage, Heizung",Filter,Partikelfilter
+"Klimaanlage, Heizung",Filter,Pollenfilter
+"Klimaanlage, Heizung",Klimaanlage,Expansionsventil
+"Klimaanlage, Heizung",Klimaanlage,Gebläsemotor
+"Klimaanlage, Heizung",Klimaanlage,Kabelsatz
+"Klimaanlage, Heizung",Klimaanlage,Kabelbaum
+"Klimaanlage, Heizung",Klimaanlage,Desinfizieren
+"Klimaanlage, Heizung",Klimaanlage,Kältemittel
+"Klimaanlage, Heizung",Klimaanlage,Klimaanlagenwartung
+"Klimaanlage, Heizung",Klimaanlage,Klimakompressor
+"Klimaanlage, Heizung",Klimaanlage,Kondensator
+"Klimaanlage, Heizung",Klimaanlage,Lüfter
+"Klimaanlage, Heizung",Klimaanlage,Thermostat
+"Klimaanlage, Heizung",Klimaanlage,Kühlwasserthermostat
+"Klimaanlage, Heizung",Klimaanlage,Verdampfer
+"Klimaanlage, Heizung",Klimaanlage,Wärmetauscher
+Kontaktanfrage,Kontaktanfrage,Kontaktanfrage
+Kraftstoffanlage,Einspritzung,Einspritzdüse
+Kraftstoffanlage,Filter,Kraftstofffilter
+Motor,Dichtung,Ölwanne
+Motor,Dichtung,Thermostat
+Motor,Dichtung,Kühlwasserthermostat
+Motor,Filter,Luftfilter
+Motor,Filter,Filtereinsatz
+Motor,Filter,Filterelement
+Motor,Kühler,Kühler
+Motor,Kühler,Kühlerschlauch
+Motor,Ölkreislauf,Motoröl
+Motor,Ölkreislauf,Ölwanne
+Motor,Ölkreislauf,Ölwechsel
+Motor,Riemen,Keilriemen
+Motor,Turbolader,Turbolader
+Motor,"Zahnriemen, Steuerkette",Steuerkette
+Motor,"Zahnriemen, Steuerkette",Wasserpumpe
+Motor,"Zahnriemen, Steuerkette",Zahnriemenwechsel
+Motor,"Zahnriemen, Steuerkette",Wasserpumpe
+Motor,Zylinderkopf,Zylinderkopf
+Motor,Zylinderkopf,Zylinderkopfdichtung
+"Pflege, Reinigung, Aufbereitung",Aufbereitung,Komplettaufbereitung
+"Pflege, Reinigung, Aufbereitung","Felgen,Reifen",Felgenreinigung
+"Pflege, Reinigung, Aufbereitung",Pflege,Autoversiegelung
+"Pflege, Reinigung, Aufbereitung",Pflege,Nanoversiegelung
+"Pflege, Reinigung, Aufbereitung",Pflege,Cabrioverdeckpflege
+"Pflege, Reinigung, Aufbereitung",Pflege,Gummipflege
+"Pflege, Reinigung, Aufbereitung",Pflege,Kunstoffpflege
+"Pflege, Reinigung, Aufbereitung",Pflege,Lederpflege
+"Pflege, Reinigung, Aufbereitung",Pflege,Ozonbehandlung
+"Pflege, Reinigung, Aufbereitung",Pflege,Ozonreinigung
+"Pflege, Reinigung, Aufbereitung",Pflege,Polieren
+"Pflege, Reinigung, Aufbereitung",Reinigung,Autoscheiben
+"Pflege, Reinigung, Aufbereitung",Reinigung,Autositze
+"Pflege, Reinigung, Aufbereitung",Reinigung,Fahrzeugwäsche
+"Pflege, Reinigung, Aufbereitung",Reinigung,Geruchsneutralisierung
+"Pflege, Reinigung, Aufbereitung",Reinigung,Innenraumreinigung
+"Pflege, Reinigung, Aufbereitung",Reinigung,Komplettreinigung
+"Pflege, Reinigung, Aufbereitung",Reinigung,Lackpflege
+"Pflege, Reinigung, Aufbereitung",Reinigung,Lackreinigung
+"Pflege, Reinigung, Aufbereitung",Reinigung,Fahrzeugwäsche
+"Pflege, Reinigung, Aufbereitung",Reinigung,Räderwäsche
+"Pflege, Reinigung, Aufbereitung",Reinigung,Motorwäsche
+"Pflege, Reinigung, Aufbereitung",Reinigung,Unterbodenwäsche
+"Pflege, Reinigung, Aufbereitung",Tuning,Folieren
+"Räder, Reifen, Felgen",Räderpflege,Räderwechsel
+"Räder, Reifen, Felgen",Räderpflege,Reifeneinlagerung
+"Räder, Reifen, Felgen",Räderpflege,Räderwäsche
+"Räder, Reifen, Felgen",Räderpflege,RDKS
+"Räder, Reifen, Felgen",Räderpflege,Radwechsel
+"Räder, Reifen, Felgen",Räderpflege,Wuchten
+"Räder, Reifen, Felgen",Reifen,Ersetzen
+"Räder, Reifen, Felgen",Reifen,Reifen
+"Räder, Reifen, Felgen",Service,Auswuchten
+"Räder, Reifen, Felgen",Service,Reifengasfüllung
+Smart Repair,Smart Repair,Dellen
+Smart Repair,Smart Repair,Sport repair
+Smart Repair,Smart Repair,Steinschlag
+Sonstiges,Sonstiges,Ersatzwagen
+Sonstiges,Sonstiges,Holservice
+Sonstiges,Sonstiges,Bringservice
+Sonstiges,Sonstiges,Lampenbox
+Sonstiges,Sonstiges,Marderabwehr
+Sonstiges,Sonstiges,Mercedes me adapter
+Sonstiges,Sonstiges,Preisanfrage
+Sonstiges,Sonstiges,Terminanfrage
+Sonstiges,Sonstiges,Umwelplakette
+"Unfall, Schaden","Unfall, Schaden",Schadensbegutachtung
+Zündanlage,Schlösser,Zündschloss
+Zündanlage,Schlösser,Lenkschloss
+Zündanlage,Zündkerzen,Glühkerze
+Zündanlage,Zündkerzen,Zündkabel
+Zündanlage,Zündkerzen,Zündleitung
+Zündanlage,Zündkerzen,Zündkerzen
+Zündanlage,Zündspule,Zündspule
